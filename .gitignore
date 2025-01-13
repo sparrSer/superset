@@ -122,3 +122,10 @@ docker/*local*
 # Jest test report
 test-report.html
 superset/static/stats/statistics.html
+
+coverage/*
+cypress/screenshots
+cypress/videos
+src/temp
+.temp_cache/
+8ab228b020 (Перший коміт з файлів супертету)
